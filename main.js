@@ -1,8 +1,8 @@
-/* Base Ori : ABILBOTZ
-Script Ori : ABILBOTZ
+/* Base Ori : Clover
+Script Ori : Clover
 Nama Base : KuzaBase
 Nama Script : KuzaBase
-Recode : ABILBOTZ
+Recode : Clover
 Youtube Author : ABILBOTZ
 Youtube Recode : ABILBOTZ
 Nama Script Recode : KuzaBase
